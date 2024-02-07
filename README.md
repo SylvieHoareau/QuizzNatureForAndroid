@@ -19,6 +19,19 @@ Pour installer tous les dépendances :
 npm install
 ```
 
+### Lancer Strapi depuis un terminal
+
+Se placer dans le dossier backend
+
+```bash
+cd backend
+```
+Puis lancer la commande : 
+
+```bash
+npm run develop
+```
+
 ## Fonctionnement du backend
 
 Voici les commandes pour interagir avec l'API : 
