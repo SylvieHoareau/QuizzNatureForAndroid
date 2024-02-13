@@ -60,7 +60,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/radioGroupOptions"
         android:width="320dp"
-        android:backgroundTint="#9C27B0"
+        android:backgroundTint="#3CB027"
         android:padding="32dp"
         android:text="@string/submit_button_text"
         android:textColor="#FFFFFF"
